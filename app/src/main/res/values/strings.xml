@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">WorkTeam20220205</string>
+    <string name="hello_team">Hello Team!</string>
+    <string name="ok">OK</string>
 </resources>
