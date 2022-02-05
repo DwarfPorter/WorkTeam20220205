@@ -9,8 +9,8 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
         
-        findViewById<Button>(R.id.button).setOnClickListener{
-            findViewById<TextView>(R.id.button).text = "done"
+        findViewById<Button>(R.id.ok).setOnClickListener{
+            findViewById<Button>(R.id.ok).text = "done"
         }
         
     }
