@@ -16,6 +16,4 @@ class MainActivity : AppCompatActivity() {
             text.text = "OK"
         }
     }
-    
-    private val tempField: String = "TEST"
 }
